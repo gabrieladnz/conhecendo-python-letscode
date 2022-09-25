@@ -1,3 +1,3 @@
-# Python: curso Data science - Let's Code
+# Python: curso Data science - Let's Code (em andamento)
 
-> Iniciando os estudos em Python, conhecendo sua sintaxe.
+Iniciando os estudos em Python, conhecendo sua sintaxe.
